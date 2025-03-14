@@ -1,6 +1,6 @@
 # Meshtastic Frequency Rebroadcast Plugin
 
-This project implements a bridge between a 915 MHz Meshtastic network and a 433 MHz amateur radio network. It allows for the forwarding of Meshtastic packets to a long-range 433 MHz connection and back, enabling communication over greater distances.
+This Akita Engineering project implements a bridge between a 915 MHz Meshtastic network and a 433 MHz amateur radio network. It allows for the forwarding of Meshtastic packets to a long-range 433 MHz connection and back, enabling communication over greater distances.
 
 ## Overview
 
