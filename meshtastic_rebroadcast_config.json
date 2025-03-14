@@ -1,0 +1,22 @@
+{
+  "mqtt": {
+    "broker": "your_mqtt_broker",
+    "port": 1883,
+    "topic": "meshtastic/#"
+  },
+  "serial": {
+    "tx_port": "/dev/ttyUSB0",
+    "rx_port": "/dev/ttyUSB1",
+    "baudrate": 9600
+  },
+  "radio": {
+    "frequency": 433.0,
+    "tx_power": 20
+  },
+  "encryption": {
+    "key": "Your32ByteEncryptionKeyHere"
+  },
+  "rate_limit": {
+    "interval": 1
+  }
+}
